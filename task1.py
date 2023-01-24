@@ -97,4 +97,3 @@ def test_color_3():
     c.set_color('red')
 
     assert c.get_color() == 'red'
-test_color_3()
